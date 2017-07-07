@@ -1,0 +1,9 @@
+#fb-btn{
+	margin-top: 20px;
+}
+#profile #posts #logout #searchPost{
+	display: none;
+}
+#profile li{
+	list-style: none;
+}
