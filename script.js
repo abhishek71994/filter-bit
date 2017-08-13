@@ -53,7 +53,7 @@ $(function() {
       }
     });
     test=0;
-    FB.api('/'+loginID+'/feed?since=2017-04-01',doSomething);
+    FB.api('/'+loginID+'/feed?since=2017-01-01',doSomething);
 
   }
 
